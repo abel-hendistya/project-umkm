@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ecommerce-material\resources\views/products/create.blade.php ENDPATH**/ ?>
